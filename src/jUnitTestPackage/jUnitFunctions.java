@@ -1,9 +1,9 @@
 package jUnitTestPackage;
 
 public class jUnitFunctions {
-	public int addNum(int n1, int n2)
+	public int addNum(int num1, int num2)
 	{
-		return n1 + n2;
+		return num1 + num2;
 	}
 	
 	public String addString(String s1, String s2)

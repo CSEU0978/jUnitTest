@@ -8,8 +8,8 @@ public class testAddNumbers {
 
 	@Test
 	public void test() {
-		jUnitFunctions jUnit = new jUnitFunctions();
-		int result = jUnit.addNum(100, 200);
+		jUnitFunctions Junit = new jUnitFunctions();
+		int result = Junit.addNum(100, 200);
 		assertEquals(300, result);
 	}
 
